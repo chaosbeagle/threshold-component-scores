@@ -1,0 +1,8 @@
+.lake/
+.cache/
+__pycache__/
+*.olean
+*.ilean
+*.log
+.DS_Store
+Thumbs.db
