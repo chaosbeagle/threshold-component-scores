@@ -1,3 +1,5 @@
+**English** | [繁體中文](project.zh-TW.md) · [Project home](../README.md)
+
 # Project motivation and purpose
 
 This project began with a question motivated by coronary artery calcium scoring: when image intensities undergo small perturbations, what can we guarantee about the resulting score and its category? Threshold-based scoring may appear to involve only a few simple operations, yet it can combine pixel activation, the formation and merging of connected regions, a minimum component-size requirement, and a weight determined by the maximum intensity. Small changes in the input can therefore produce abrupt changes in the output.

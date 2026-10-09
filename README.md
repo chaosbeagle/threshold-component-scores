@@ -1,3 +1,5 @@
+**English** | [繁體中文](README.zh-TW.md)
+
 # Exact robustness and complexity of threshold component scores
 
 Exact robustness guarantees and computational limits for graph-based threshold component scoring, with a companion Lean formalization of its semantic core.
@@ -10,7 +12,7 @@ The model is motivated by coronary artery calcium scoring. It combines threshold
 2. **Lean project:** [Browse the source](lean/) and [formal verification coverage](docs/formal-coverage.md).
 3. **Pinned dependencies:** [Lean, Mathlib, and all transitive revisions](DEPENDENCIES.md).
 4. **Build instructions:** [Compile and audit the Lean project](BUILD.md).
-5. **Project background:** [English](docs/project.en.md) · [繁體中文](docs/project.zh-TW.md).
+5. **Project background:** [Motivation and purpose](docs/project.en.md).
 
 ## Results and formal scope
 
